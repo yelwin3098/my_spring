@@ -88,7 +88,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="pogoSlider" id="js-main-slider">
-					<div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(images/real/4.jpg);">
+					<div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/4_tguXhy3Ow.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721628588);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<div class="row">
@@ -124,7 +124,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="1500" style="background-image:url(images/real/7.jpg);">
+					<div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="1500" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<div class="row">
@@ -162,7 +162,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000" style="background-image:url(images/real/8.jpg);">
+					<div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/8_ZirNxSW1d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721683380);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<div class="row">
@@ -257,14 +257,14 @@
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-12">
 								<div class="about-img">
-									<img class="img-fluid rounded" src="images/real/15.jpeg" alt="" />
+									<img class="img-fluid rounded" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/15_7g-pSYSL6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721851495" alt="" />
 								</div>
 							</div>
 						</div>
 						<div class="row align-items-center about-main-info">
 							<div class="col-lg-4 col-md-6 col-sm-12">
 								<div class="about-img">
-									<img class="img-fluid rounded" src="images/real/16.jpg" alt="" />
+									<img class="img-fluid rounded" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/16_rqdRNDSCj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721851233" alt="" />
 								</div>
 							</div>
 							<div class="col-lg-8 col-md-6 col-sm-12">
@@ -453,50 +453,50 @@
 			<div class="row">
 				<ul class="popup-gallery clearfix">
 					<li>
-						<a href="images/real/1.jpg">
-							<img class="img-fluid" src="images/real/1.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/1_AuCsYBUAR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721298425">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/1_AuCsYBUAR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721298425" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/7.jpg">
-							<img class="img-fluid" src="images/real/7.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/9.jpg">
-							<img class="img-fluid" src="images/real/9.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/9_MrdVwkjmj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721685743">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/9_MrdVwkjmj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721685743" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/4.jpg">
-							<img class="img-fluid" src="images/real/4.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/4_tguXhy3Ow.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721628588">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/4_tguXhy3Ow.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721628588" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/5.jpg">
-							<img class="img-fluid" src="images/real/5.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/5_zO86ML5Wg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633234">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/5_zO86ML5Wg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633234" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/6.jpg">
-							<img class="img-fluid" src="images/real/6.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/6_B3ZhiebT-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633933">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/6_B3ZhiebT-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633933" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/2.jpg">
-							<img class="img-fluid" src="images/real/2.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/2_5d4X6MIC21.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721588085">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/2_5d4X6MIC21.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721588085" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/real/8.jpg">
-							<img class="img-fluid" src="images/real/8.jpg" title="First Date Memories" alt="single image">
+						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/8_ZirNxSW1d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721683380">
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/8_ZirNxSW1d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721683380" title="First Date Memories" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
@@ -521,7 +521,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
-							<img class="img-fluid" src="images/real/10.jpg" alt="" />
+							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/10_h1rDYDSz-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721790187" alt="" />
 						</div>
 						<h2>23, Feb, 2022</h2>
 						<p>First date in eight months....We will celebrate many anniversaries happily. I look forward to seeing you soon....</p>
