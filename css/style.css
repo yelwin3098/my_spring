@@ -747,6 +747,11 @@ button:focus{
 	margin-bottom: 15px;
 }
 
+.img-wdh{
+    width: 100%;
+    height: 500px;
+}
+
 .event-inner a{
 	background: #dd666c;
 	color: #ffffff;

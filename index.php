@@ -88,7 +88,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="pogoSlider" id="js-main-slider">
-					<div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/4_tguXhy3Ow.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721628588);">
+					<div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/date2_kB8rMvGyG?ik-sdk-version=javascript-1.4.3&updatedAt=1659066757748);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<div class="row">
@@ -124,7 +124,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="1500" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479);">
+					<div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="1500" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/anni_5t5DXJMSm?ik-sdk-version=javascript-1.4.3&updatedAt=1659066277066);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<div class="row">
@@ -162,7 +162,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/8_ZirNxSW1d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721683380);">
+					<div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000" style="background-image:url(https://ik.imagekit.io/cj2wtfjkpbw/myspring/date_qtqu3U_Nu?ik-sdk-version=javascript-1.4.3&updatedAt=1659066145230);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<div class="row">
@@ -351,7 +351,29 @@
 					 </div>
 				</div>
 			</div>
-			
+			<div class="row timeline-element reverse separline">
+				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">         
+                    <div class="time-line-date-content">
+                        <p class="mbr-timeline-date mbr-fonts-style display-font">
+                            1 July 2022  
+                        </p>
+                    </div>
+				</div>
+				<span class="iconBackground"></span>
+				<div class="col-xs-12 col-md-6 align-right">
+					<div class="timeline-text-content">
+						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">1 year anniversary</h4>
+						<p class="mbr-timeline-text mbr-fonts-style display-7">
+							Happy 1 year anniversary Puttu..🎉💙
+							It's been 1 year since the girl who came to me because I made a mistake in one of her posts haha....💏
+							A full year to be with Putu
+							I have a lot of fun...👫💙
+							Thank you for always supporting me in this time when I am always feeling down. I love you so much....🙆‍♂️💙
+							I will always love you and always be your strength....💑
+						</p>
+					 </div>
+				</div>
+			</div>
 		</div>
 	</div>
 	<!-- End Story -->
@@ -451,55 +473,9 @@
 				</div>
 			</div>
 			<div class="row">
-				<ul class="popup-gallery clearfix">
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/1_AuCsYBUAR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721298425">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/1_AuCsYBUAR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721298425" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/9_MrdVwkjmj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721685743">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/9_MrdVwkjmj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721685743" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/4_tguXhy3Ow.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721628588">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/4_tguXhy3Ow.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721628588" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/5_zO86ML5Wg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633234">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/5_zO86ML5Wg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633234" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/6_B3ZhiebT-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633933">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/6_B3ZhiebT-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721633933" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/2_5d4X6MIC21.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721588085">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/2_5d4X6MIC21.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721588085" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
-					<li>
-						<a href="https://ik.imagekit.io/cj2wtfjkpbw/myspring/8_ZirNxSW1d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721683380">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/8_ZirNxSW1d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721683380" title="First Date Memories" alt="single image">
-							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
-						</a>
-					</li>
+				<ul class="popup-gallery clearfix" id="first_list">
+				</ul>
+				<ul class="popup-gallery clearfix" id="second_list">
 				</ul>
 			</div>
 		</div>
@@ -521,24 +497,24 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
-							<img class="img-fluid" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/10_h1rDYDSz-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721790187" alt="" />
+							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/10_h1rDYDSz-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721790187" alt="" />
 						</div>
-						<h2>23, Feb, 2022</h2>
+						<h2>23, Feb, 2022 - First date</h2>
 						<p>First date in eight months....We will celebrate many anniversaries happily. I look forward to seeing you soon....</p>
-						<!-- <a href="#">See location ></a> -->
-					</div>
-				</div>
-				<!-- <div class="col-lg-4 col-md-6 col-sm-12">
-					<div class="event-inner">
-						<div class="event-img">
-							<img class="img-fluid" src="images/event-img-02.jpg" alt="" />
-						</div>
-						<h2>3 June 2018 Main Ceremony </h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard </p>
-						<a href="#">See location ></a>
+						<a href="https://m.facebook.com/story.php?story_fbid=1153296591914739&id=100017032264278">See More</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220701_130918_128_S69RmREh84.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065329912" alt="" />
+						</div>
+						<h2>1 July 2022 - 1 year anniversary </h2>
+						<p>It's been 1 year since the girl who came to me because I made a mistake in one of her posts haha....💏</p>
+						<a href="https://m.facebook.com/story.php?story_fbid=1725773841102899&id=100010108996072">See More</a>
+					</div>
+				</div>
+				<!-- <div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
 							<img class="img-fluid" src="images/event-img-03.jpg" alt="" />
@@ -673,6 +649,92 @@
 				document.getElementById("sec"+i).innerHTML = sec + "<br> <span>secs</span>"
 			}
 		}, 1000);
+		$(document).ready(function(){
+			var list_one=[
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/1_AuCsYBUAR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721298425",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/daet1_u1eO35sqM?ik-sdk-version=javascript-1.4.3&updatedAt=1659066666071",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/date2_kB8rMvGyG?ik-sdk-version=javascript-1.4.3&updatedAt=1659066757748",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/date3_ow9Q1tju5?ik-sdk-version=javascript-1.4.3&updatedAt=1659066833242",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220626_140817_DXRvBFChvf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065332203",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/anni_5t5DXJMSm?ik-sdk-version=javascript-1.4.3&updatedAt=1659066277066",
+						"width":"350",
+						"height":"220"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/date_qtqu3U_Nu?ik-sdk-version=javascript-1.4.3&updatedAt=1659066145230",
+						"width":"350",
+						"height":"220"
+					}
+				]
+				var list_two=[
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/FB_IMG_1783979279109371682_TbN94jVxOz.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065328990",
+						"width":"350",
+						"height":"550"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220701_191105_864_VmmBOKJuy-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065329321",
+						"width":"350",
+						"height":"550"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220702_155132_365_M-QAQamMO.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065329386",
+						"width":"350",
+						"height":"550"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220602_082705_324_QNJ1h5SFAn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065326763",
+						"width":"350",
+						"height":"550"
+					}
+				]
+				list_one.forEach(e=>{
+					const list_item=`
+							<li>
+								<a href="${e.image_url}">
+									<img class="img-fluid" style="width:${e.width}px;height:${e.height}px" src=${e.image_url}" title="Memories" alt="single image">
+									<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
+								</a>
+							</li>`
+					$("#first_list").append(list_item)
+				})
+				list_two.forEach(e=>{
+					const list_item=`
+							<li>
+								<a href="${e.image_url}">
+									<img class="img-fluid" style="width:${e.width}px;height:${e.height}px" src=${e.image_url}" title="Memories" alt="single image">
+									<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
+								</a>
+							</li>`
+					$("#second_list").append(list_item)
+				})
+		});
 	</script>
 </body>
 </html>
