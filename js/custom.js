@@ -53,7 +53,6 @@
 			image: {
 				tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
 				titleSrc: function(item) {
-					console.log(item)
 					return "First Date Memories" + '<small>by Ye Lwin</small>';
 				}
 			}
