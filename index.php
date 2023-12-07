@@ -248,32 +248,34 @@
 					<div class="col-lg-12 col-md-12 col-sm-12">
 						<div class="row align-items-center about-main-info">
 							<div class="col-lg-8 col-md-6 col-sm-12">
-								<h2> About <span>PuTuu</span></h2>
-								<p>Hearing her voice brings me so much joy and her laughter makes me happy.
-								   She makes me so happy just by being herself.
-								   She is truly gorgeous. Seeing her smile is the best part of my day.
-								   When I'm with her, I feel like I found what I was looking for.							
-								</p>
-							</div>
-							<div class="col-lg-4 col-md-6 col-sm-12">
-								<div class="about-img">
-									<img class="img-fluid rounded" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/15_7g-pSYSL6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721851495" alt="" />
-								</div>
-							</div>
-						</div>
-						<div class="row align-items-center about-main-info">
-							<div class="col-lg-4 col-md-6 col-sm-12">
-								<div class="about-img">
-									<img class="img-fluid rounded" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/16_rqdRNDSCj.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721851233" alt="" />
-								</div>
-							</div>
-							<div class="col-lg-8 col-md-6 col-sm-12">
-								<h2> About <span>KoKo</span></h2>
+								
+								<h2> <span>KoKo</span></h2>
 								<p>I never get tired of looking at you.I don't know what I'd do without you.
 									I love being with so much, I wish time could stand still when we're together.
 									I can't wait to make more memories with you.
 									I believe she will never leave me and will always love me.
 									Thank you for loving me</p>
+							</div>
+							
+							<div class="col-lg-4 col-md-6 col-sm-12">
+								<div class="about-img">
+									<img class="img-fluid rounded" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-36-10_NyqsCEgW7.jpg?updatedAt=1701932951828" alt="" />
+								</div>
+							</div>
+						</div>
+						<div class="row align-items-center about-main-info">
+						<div class="col-lg-4 col-md-6 col-sm-12">
+								<div class="about-img">
+									<img class="img-fluid rounded" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/15_7g-pSYSL6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721851495" alt="" />
+								</div>
+							</div>
+							<div class="col-lg-8 col-md-6 col-sm-12">
+								<h2> <span>PuTuu</span></h2>
+								<p>Hearing her voice brings me so much joy and her laughter makes me happy.
+								   She makes me so happy just by being herself.
+								   She is truly gorgeous. Seeing her smile is the best part of my day.
+								   When I'm with her, I feel like I found what I was looking for.							
+								</p>
 							</div>
 						</div>
 					</div>
@@ -362,9 +364,9 @@
 				<span class="iconBackground"></span>
 				<div class="col-xs-12 col-md-6 align-right">
 					<div class="timeline-text-content">
-						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">1 year anniversary</h4>
+						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">1st year anniversary</h4>
 						<p class="mbr-timeline-text mbr-fonts-style display-7">
-							Happy 1 year anniversary Puttu..🎉💙
+							Happy 1st year anniversary Puttu..🎉💙
 							It's been 1 year since the girl who came to me because I made a mistake in one of her posts haha....💏
 							A full year to be with Putu
 							I have a lot of fun...👫💙
@@ -372,6 +374,27 @@
 							I will always love you and always be your strength....💑
 						</p>
 					 </div>
+				</div>
+			</div>
+			<div class="row timeline-element separline">
+				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">         
+					<div class="time-line-date-content">
+						<p class="mbr-timeline-date mbr-fonts-style display-font">
+						1 July 2023
+						</p>
+					</div>
+				</div>
+				<span class="iconBackground"></span>
+				<div class="col-xs-12 col-md-6 align-left">
+					<div class="timeline-text-content">
+						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">2nd year anniversary</h4>
+						<p class="mbr-timeline-text mbr-fonts-style display-7">
+						Happy 2nd year anniversary Puttu..🎉💙
+							Another amazing year with you, filled with love and laughter. Time flies, but our love only grows stronger. 💑
+							Thank you for being my rock, my joy, and my love. Looking forward to creating more beautiful memories together. 🌟💙
+							Here's to many more years of happiness and love. Cheers to us! 🥂💖
+						</p>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -497,23 +520,47 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
-							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/10_h1rDYDSz-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721790187" alt="" />
+							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/3_OpXdNgWMQP.jpg?updatedAt=1648721594264" alt="" />
 						</div>
 						<h2>23, Feb, 2022 - First date</h2>
 						<p>First date in eight months....We will celebrate many anniversaries happily. I look forward to seeing you soon....</p>
-						<a href="https://m.facebook.com/story.php?story_fbid=1153296591914739&id=100017032264278">See More</a>
+						<!-- <a href="https://m.facebook.com/story.php?story_fbid=1153296591914739&id=100017032264278">See More</a> -->
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
-							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220701_130918_128_S69RmREh84.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065329912" alt="" />
+							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-35-51_LOVbB5Os_.jpg?updatedAt=1701932951484" alt="" />
 						</div>
-						<h2>1 July 2022 - 1 year anniversary </h2>
-						<p>It's been 1 year since the girl who came to me because I made a mistake in one of her posts haha....💏</p>
-						<a href="https://m.facebook.com/story.php?story_fbid=1725773841102899&id=100010108996072">See More</a>
+						<h2>1 July 2022 - 1st Year Anniversary</h2>
+						<p>It's been 1 year since the girl came to me because I made a mistake in one of her posts. Haha... 💏</p>
+						<!-- <a href="https://m.facebook.com/story.php?story_fbid=1725773841102899&id=100010108996072">See More</a> -->
 					</div>
 				</div>
+
+				<div class="col-lg-6 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-35-42_8NSoLciHv7.jpg?updatedAt=1701932951677" alt="" />
+						</div>
+						<h2>1 July 2023 - 2nd Year Anniversary</h2>
+						<p>Celebrating 2 years of laughter, love, and the beautiful journey we've shared. Happy anniversary, my love! 💑</p>
+						<!-- <a href="https://m.facebook.com/story.php?story_fbid=1725773841102899&id=100010108996072">See More</a> -->
+					</div>
+				</div>
+
+				<div class="col-lg-6 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid img-wdh" src="https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-36-23_J-CQkWSu6.jpg?updatedAt=1701932954669" alt="" />
+						</div>
+						<h2>Short Trip to Bago City</h2>
+						<p>Exploring Bago City, creating beautiful memories, and cherishing moments of joy. Here's to a happy journey! 🌟</p>
+						<!-- <a href="https://m.facebook.com/story.php?story_fbid=1725773841102899&id=100010108996072">See More</a> -->
+					</div>
+				</div>
+
+
 				<!-- <div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="event-inner">
 						<div class="event-img">
@@ -652,47 +699,87 @@
 		$(document).ready(function(){
 			var list_one=[
 					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-36-08_kmKOrG4A0_.jpg?updatedAt=1701932951847",
+						"width":"400",
+						"height":"250"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-36-13_nh6DD_66P.jpg?updatedAt=1701932951782",
+						"width":"400",
+						"height":"250"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-35-42_8NSoLciHv7.jpg?updatedAt=1701932951677",
+						"width":"400",
+						"height":"250"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-02-08_11-32-30_UB6qMJQrq.jpg?updatedAt=1701932951564",
+						"width":"400",
+						"height":"250"
+					},
+					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/1_AuCsYBUAR.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721298425",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/7_Cyb74Y_7J.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648721673479",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/daet1_u1eO35sqM?ik-sdk-version=javascript-1.4.3&updatedAt=1659066666071",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/date2_kB8rMvGyG?ik-sdk-version=javascript-1.4.3&updatedAt=1659066757748",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/date3_ow9Q1tju5?ik-sdk-version=javascript-1.4.3&updatedAt=1659066833242",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/IMG_20220626_140817_DXRvBFChvf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065332203",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/anni_5t5DXJMSm?ik-sdk-version=javascript-1.4.3&updatedAt=1659066277066",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/date_qtqu3U_Nu?ik-sdk-version=javascript-1.4.3&updatedAt=1659066145230",
 						"width":"400",
-						"height":"200"
+						"height":"250"
 					}
 				]
 				var list_two=[
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-35-58_Fdq18Ick-.jpg?updatedAt=1701932951518",
+						"width":"400",
+						"height":"550"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-36-20_JY_5umJj7.jpg?updatedAt=1701932954573",
+						"width":"400",
+						"height":"550"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-36-06_BlMAA_Hxd.jpg?updatedAt=1701932951888",
+						"width":"400",
+						"height":"550"
+					},
+					{
+						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/photo_2023-12-07_13-35-51_LOVbB5Os_.jpg?updatedAt=1701932951484",
+						"width":"400",
+						"height":"550"
+					},
 					{
 						"image_url":"https://ik.imagekit.io/cj2wtfjkpbw/myspring/FB_IMG_1783979279109371682_TbN94jVxOz.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659065328990",
 						"width":"400",
